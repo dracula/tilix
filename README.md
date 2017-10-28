@@ -15,8 +15,8 @@
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Krzysztof Żuraw](https://avatars0.githubusercontent.com/u/9116238?v=3&s=70)](https://github.com/krzysztofzuraw) |
---- | ---
+[![Krzysztof Żuraw](https://avatars3.githubusercontent.com/u/9116238?v=3&s=70)](https://github.com/krzysztofzuraw) |
+--- |
 [Krzysztof Żuraw](https://github.com/krzysztofzuraw) |
 
 ## License
