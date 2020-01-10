@@ -6,10 +6,7 @@
 
 ## Install
 
-1. Copy `Dracula.json` under `~/.config/tilix/schemes` (first create directory if not exist)
-1. Go to `Preferences` and select your Tilix profile
-1. Select `Colors` tab
-1. Select `Dracula` from dropdown
+All instructions can be found at [draculatheme.com/tilix](https://draculatheme.com/tilix).
 
 ## Team
 
